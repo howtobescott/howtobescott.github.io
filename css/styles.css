@@ -1,0 +1,59 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  background-color: #fcfdff;
+  color: #36454f;
+  font-size: 1.125rem;
+}
+
+#customNav {
+  font-size: 2rem;
+  color: #36454f;
+  font-family: 'Raleway', sans-serif;
+}
+
+#customNav a {
+  text-decoration: none;
+  color: #36454f;
+}
+
+hr {
+  width: 300px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+#bio {
+  font-size: 1.2rem;
+  padding-top: 30px;
+}
+
+#iconbar {
+  padding-bottom: 2rem;
+}
+
+.iKons {
+  padding-left: 95px;
+  padding-top: 20px;
+  line-height: 4;
+  color: #36454f;
+}
+
+.untaken {
+  color: #c5cbd4;
+}
+
+.post {
+  font-size: 1.125rem;
+  color: black;
+}
+
+.date {
+  color: #9da0a8;
+  margin-bottom: 5px;
+}
+
+span {
+  font-size: 20px;
+  color: #c5cbd4;
+}
